@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @angelzDAM
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Multiplatform Development Apps
-- 💞️ I’m looking to collaborate on everywhere honestly
-- 📫 How to reach me angelzafra36@gmail.com
+- 💞️ I’m looking to collaborate in everything honestly
+- 📫 How to reach me: angelzafra36@gmail.com
 - 😄 Pronouns: Nothing lol
 - ⚡ Fun fact: ...
 
